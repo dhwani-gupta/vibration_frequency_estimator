@@ -1,1 +1,1 @@
-# vibration_frequency_estimator
+# signal-frequency

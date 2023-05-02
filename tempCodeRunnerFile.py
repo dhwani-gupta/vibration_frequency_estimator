@@ -1,0 +1,1 @@
+estimate_vibration_frequency(args.video)
